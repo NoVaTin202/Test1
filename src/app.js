@@ -7,6 +7,7 @@ var HelloWorldLayer = cc.Layer.extend({
         // 1. super init first
         this._super();
         var a="hello";
+        var b="moi"
 
         /////////////////////////////
         // 2. add a menu item with "X" image, which is clicked to quit the program
