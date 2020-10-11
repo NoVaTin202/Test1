@@ -2,6 +2,7 @@
 var HelloWorldLayer = cc.Layer.extend({
     sprite:null,
     ctor:function () {
+        //Novatien
         //////////////////////////////
         // 1. super init first
         this._super();

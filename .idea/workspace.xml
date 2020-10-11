@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="52092e94-b423-408c-97c1-506857b819d8" name="Default Changelist" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,9 @@
       <option name="presentableId" value="Default" />
       <updated>1602344515593</updated>
       <workItem from="1602344516715" duration="2057000" />
-      <workItem from="1602377176044" duration="7077000" />
+      <workItem from="1602377176044" duration="8601000" />
+      <workItem from="1602387404808" duration="461000" />
+      <workItem from="1602400445019" duration="242000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1602381925091</created>
@@ -87,6 +90,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
